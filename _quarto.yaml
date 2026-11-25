@@ -1,6 +1,7 @@
 project:
   type: book
-  output-dir: docs
+
+lang: mn
 
 book:
   title: "Дараалал ба Математик индукцийн арга"
@@ -8,6 +9,8 @@ book:
   #author: "Хятадын математикийн олимпиадын цуврал (Орчуулсан: Д.Батнасан)"
   #date: "2026"
   cover-image: images/cover.png
+  #sidebar:
+  #  logo: images/must-logo.png
   chapters:
     - index.qmd
     - part: "I Бүлэг. Үндсэн ойлголт ба аргууд"
@@ -35,7 +38,7 @@ book:
       chapters:
         - sol01.qmd
         - sol02.qmd
-    - references.qmd
+        - references.qmd
 
 format:
   html:
@@ -43,10 +46,9 @@ format:
     theme:
       light: cosmo
       dark: darkly
+    css: custom.css
     toc: true
     toc-depth: 3
     number-sections: false
     html-math-method: katex
     callout-appearance: simple
-
-lang: mn
