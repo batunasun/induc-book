@@ -28,6 +28,12 @@ jobs:
       - name: Render book
         run: quarto render
 
+      - name: List files
+        run: |
+          pwd
+          ls -la
+          find . -type d
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
