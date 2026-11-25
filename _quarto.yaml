@@ -1,0 +1,52 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Дараалал ба Математик индукцийн арга"
+  subtitle: "Олимпиадын математикийн сонгомол сэдвүүд"
+  #author: "Хятадын математикийн олимпиадын цуврал (Орчуулсан: Д.Батнасан)"
+  #date: "2026"
+  cover-image: images/cover.png
+  chapters:
+    - index.qmd
+    - part: "I Бүлэг. Үндсэн ойлголт ба аргууд"
+      chapters:
+        - ch01.qmd
+        - ch02.qmd
+        - ch03.qmd
+        - ch04.qmd
+        - ch05.qmd
+        - ch06.qmd
+        - ch07.qmd
+        - ch08.qmd
+        - ex01.qmd
+    - part: "II Бүлэг. Сонгомол сэдвүүд ба техникүүд"
+      chapters:
+        - ch09.qmd
+        - ch10.qmd
+        - ch11.qmd
+        - ch12.qmd
+        - ch13.qmd
+        - ch14.qmd
+        - ch15.qmd
+        - ex02.qmd
+    - part: "Бодолт ба Хариу"
+      chapters:
+        - sol01.qmd
+        - sol02.qmd
+    - references.qmd
+
+format:
+  html:
+    toc-title: "Дэд гарчиг"
+    theme:
+      light: cosmo
+      dark: darkly
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    html-math-method: katex
+    callout-appearance: simple
+
+lang: mn

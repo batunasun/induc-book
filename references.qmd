@@ -1,0 +1,12 @@
+# Ном зүй {.unnumbered}
+
+1. Xiong Bin, Liu Shixiong. *High School Math Competition Step-by-step*. Wuhan University Press, 2003.
+2. Su Chun. *A Casual Talk on Techniques When Applying Mathematical Induction*. University of Science and Technology of China Press, 1992.
+3. Zheng Longxin. *Induction and Recurrence*. Hubei Educational Press, 1984.
+4. Chen Jiasheng, Xu Huifang. *Recursive Sequences*. Shanghai Educational Publishing House, 1988.
+5. Xia Xingguo. *Overview of Mathematical Induction*. Henan Press of Science and Technology, 1993.
+6. Pan Chengdong, Pan Chengbiao. *Elementary Number Theory*. Peking University Press, 2003.
+7. B. J. Venkatachala. *Functional Equations*. Prism Books Pvt Ltd, 2002.
+8. Feng Zhigang, Xiong Bin. *An Introduction to Mathematics Olympiad*. Shanghai Science and Technology Educational Publishing House, 2001.
+9. Feng Zhigang. *Methods and Techniques to Prove Problems by Mathematical Induction*. East China Normal University Press, 2005.
+10. Feng Zhigang. *Elementary Number Theory*. Shanghai Science and Technology Educational Publishing House, 2009.
